@@ -1,0 +1,22 @@
+{
+   "Provider": "Matix's Mod Installer ❤",
+   "Website": "https://www.matix-media.net",
+   "Modpacks":[
+      {
+         "Name":"Survival Default Kit",
+         "Creator":"Matix",
+         "Version":"0.1.4",
+         "McVersion":"1.16.4",
+         "ModpackDownload":"https://cdn.matix-media.net/dd/ddca9ada",
+         "Icon":"https://imgur.com/eiuJs3z.png"
+      },
+      {
+         "Name":"OptiFine 1.16.4",
+         "Creator":"Matix",
+         "Version":"0.1.1",
+         "McVersion":"1.16.4",
+         "ModpackDownload":"https://cdn.matix-media.net/dd/ddca9ada",
+         "Icon":"https://imgur.com/u1B1co3.png"
+      }
+   ]
+}
