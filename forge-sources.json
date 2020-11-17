@@ -1,4 +1,12 @@
 {
-	"1.16.4": "https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/forge/1.16.4-forge-35.0.17-mmi.zip",
-	"1.14.4": "https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/forge/1.14.4-forge-28.0.76-mmi.zip"
+	"1.16.4": 
+	[
+		"https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/forge/1.16.4-forge-35.0.17-mmi.zip",
+		"1.16.4-forge-35.0.17-mmi"
+	],
+	"1.14.4": 
+	[
+		"https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/forge/1.14.4-forge-28.0.76-mmi.zip",
+		"1.14.4-forge-28.0.76-mmi"
+	]
 }
