@@ -1,19 +1,4 @@
 {
-	"1.16.4": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.4-35.0.18/forge-1.16.4-35.0.18-installer.jar",
-	"1.16.3": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.3-34.1.42/forge-1.16.3-34.1.42-installer.jar",
-	"1.16.2": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.2-33.0.61/forge-1.16.2-33.0.61-installer.jar",
-	"1.16.1": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.1-32.0.108/forge-1.16.1-32.0.108-installer.jar",
-	"1.15.2": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.0/forge-1.15.2-31.2.0-installer.jar",
-	"1.15.1": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.1-30.0.51/forge-1.15.1-30.0.51-installer.jar",
-	"1.15": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15-29.0.4/forge-1.15-29.0.4-installer.jar",
-	"1.14.4": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.2.0/forge-1.14.4-28.2.0-installer.jar",
-	"1.14.3": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.3-27.0.60/forge-1.14.3-27.0.60-installer.jar",
-	"1.14.2": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.2-26.0.63/forge-1.14.2-26.0.63-installer.jar",
-	"1.13.2": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.13.2-25.0.219/forge-1.13.2-25.0.219-installer.jar",
-	"1.12.2": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-installer.jar",
-	"1.12.1": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.1-14.22.1.2478/forge-1.12.1-14.22.1.2478-installer.jar",
-	"1.12": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12-14.21.1.2387/forge-1.12-14.21.1.2387-installer.jar",
-	"1.11.2": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.11.2-13.20.1.2386/forge-1.11.2-13.20.1.2386-installer.jar",
-	"1.11": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.11-13.19.1.2189/forge-1.11-13.19.1.2189-installer.jar",
-	"1.10": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.10.2-12.18.3.2185/forge-1.10.2-12.18.3.2185-installer.jar"
+	"1.16.4": "https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/forge/1.16.4-forge-35.0.17-mmi.zip",
+	"1.14.4": "https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/forge/1.14.4-forge-28.0.76-mmi.zip"
 }
