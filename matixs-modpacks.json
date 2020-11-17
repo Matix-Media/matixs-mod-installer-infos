@@ -9,6 +9,7 @@
          "McVersion":"1.16.4",
          "ModpackDownload":"https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/modpack-bundles/matixs-modpack-survival-default-kit_001.zip",
          "Icon":"https://imgur.com/eiuJs3z.png",
+         "Banner": "https://imgur.com/pDvgCCM.png",
          "UID": "matixs-modpack-survival-default-kit_001"
       },
       {
@@ -18,6 +19,7 @@
          "McVersion":"1.16.4",
          "ModpackDownload":"https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/modpack-bundles/matixs-modpack-optifine-for-forge-1-16-4_002.zip",
          "Icon":"https://imgur.com/u1B1co3.png",
+         "Banner": "https://imgur.com/pDvgCCM",
          "UID": "matixs-modpacks-optifine-for-forge-1-16-4_002"
       }
    ]
