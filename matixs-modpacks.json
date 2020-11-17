@@ -8,7 +8,8 @@
          "Version":"0.1.4",
          "McVersion":"1.16.4",
          "ModpackDownload":"https://cdn.matix-media.net/dd/ddca9ada",
-         "Icon":"https://imgur.com/eiuJs3z.png"
+         "Icon":"https://imgur.com/eiuJs3z.png",
+         "UID": "matixs-modpack-survival-default-kit_001"
       },
       {
          "Name":"OptiFine for Forge 1.16.4",
@@ -16,7 +17,8 @@
          "Version":"0.1.2",
          "McVersion":"1.16.4",
          "ModpackDownload":"https://cdn.matix-media.net/dd/fe8408ab",
-         "Icon":"https://imgur.com/u1B1co3.png"
+         "Icon":"https://imgur.com/u1B1co3.png",
+         "UID": "matixs-modpacks-optifine-for-forge-1-16-4_002"
       }
    ]
 }
