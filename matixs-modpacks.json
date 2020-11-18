@@ -23,17 +23,6 @@
          "Icon":"https://imgur.com/u1B1co3.png",
          "Banner": "https://imgur.com/pDvgCCM",
          "UID": "matixs-modpacks-optifine-for-forge-1-16-4_002"
-      },
-      {
-         "Name":"Test Modpack",
-         "Creator":"Matix",
-         "Version":"0.1.2",
-         "McVersion":"1.16.4",
-         "ModpackDownload":"https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/modpack-bundles/matixs-modpack-optifine-for-forge-1-16-4_002.zip",
-         "Description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
-         "Icon":"https://imgur.com/u1B1co3.png",
-         "Banner": "https://imgur.com/pDvgCCM",
-         "UID": "matixs-modpacks-test-modpack_003"
       }
    ]
 }
