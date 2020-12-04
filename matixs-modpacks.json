@@ -11,9 +11,51 @@
          "ModpackDownload":"https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/modpack-bundles/matixs-modpack-survival-default-kit_001.zip",
          "ModpackSHA256": "f0ee38a12caf58220180890b1ac7e84baaabcb3728958dd04ff8de2c7ce8df01",
          "Description": "# Survival Default Kit\n\nA simple Modpack containing the things you need to get an improved Vanilla Minecraft experience.\n\nThis Modpack includes:\n\n- Damage Indicator\n- Mini- and Worldmap\n- Shulker Tooltips\n- OptiFine\n- Inventory sorting\n- crafting Mods\n\nThis Modpack also includes:\n- VanillaTwerks texture pack\n- vanillareborn shaderpack",
-         "Icon":"https://imgur.com/eiuJs3z.png",
+         "Icon":"https://imgur.com/eiuJs3z.png_",
          "Banner": "https://imgur.com/pDvgCCM.png",
-         "UID": "matixs-modpack-survival-default-kit_001"
+         "UID": "matixs-modpack-survival-default-kit_001",
+		 "Mods": [
+			{
+				"Name": "Inventory Tweaks Renewed",
+				"Website": "https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed",
+				"Version": "1.0.0"
+			},
+			{
+				"Name": "Just Enough Items",
+				"Website": "https://www.curseforge.com/minecraft/mc-mods/jei",
+				"Version": "4.16.1.301"
+			},
+			{
+				"Name": "OptiFine",
+				"Website": "https://optifine.net/home",
+				"Version": "HD U G5"
+			},
+			{
+				"Name": "OptiForge",
+				"Website": "https://www.curseforge.com/minecraft/mc-mods/optiforge",
+				"Version": "0.1.32"
+			},
+			{
+				"Name": "Shulker Tooltip",
+				"Website": "https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip",
+				"Version": "1.9.3"
+			},
+			{
+				"Name": "ToroHealth Damag Indicator",
+				"Website": "https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators",
+				"Version": "N/A"
+			},
+			{
+				"Name": "Xaero's Minimap",
+				"Website": "https://chocolateminecraft.com/minimap2.php",
+				"Version": "20.28.2"
+			},
+			{
+				"Name": "Xaero's World Map",
+				"Website": "https://chocolateminecraft.com/worldmap.php",
+				"Version": "1.11.4"
+			}
+		 ]
       },
       {
          "Name":"OptiFine for Forge 1.16.4",
@@ -26,7 +68,19 @@
          "Description": "Simply OptiFine for Minecraft 1.16.4. Served using Minecraft Forge.",
          "Icon":"https://imgur.com/u1B1co3.png",
          "Banner": "https://imgur.com/pDvgCCM",
-         "UID": "matixs-modpacks-optifine-for-forge-1-16-4_002"
+         "UID": "matixs-modpacks-optifine-for-forge-1-16-4_002",
+		 "Mods": [
+			{
+				"Name": "OptiFine",
+				"Website": "https://optifine.net/home",
+				"Version": "HD U G5"
+			},
+			{
+				"Name": "OptiForge",
+				"Website": "https://www.curseforge.com/minecraft/mc-mods/optiforge",
+				"Version": "0.1.32"
+			}
+		 ]
       }
    ]
 }
