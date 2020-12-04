@@ -5,11 +5,11 @@
       {
          "Name":"Survival Default Kit",
          "Creator":"Matix",
-         "Version":"1.2.0",
+         "Version":"1.2.1",
          "McVersion":"1.16.4",
          "ModpackDownload":"https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/modpack-bundles/matixs-modpack-survival-default-kit_001.zip",
          "ModpackSHA256": "f0ee38a12caf58220180890b1ac7e84baaabcb3728958dd04ff8de2c7ce8df01",
-         "Description": "A simple Modpack containing the things you need to get an improved Vanilla Minecraft experience.\nThis Modpack includes a Damage Indicator, a Minimap, Shulker Tooltips, OptiFine and Inventory sorting and crafting Mods. This Modpack includes the VanillaTwerks texture pack.",
+         "Description": "A simple Modpack containing the things you need to get an improved Vanilla Minecraft experience.\nThis Modpack includes a Damage Indicator, a Mini- and Worldmap, Shulker Tooltips, OptiFine and Inventory sorting and crafting Mods.\n\nThis Modpack includes the VanillaTwerks texture pack and the vanillareborn shaderpack.",
          "Icon":"https://imgur.com/eiuJs3z.png",
          "Banner": "https://imgur.com/pDvgCCM.png",
          "UID": "matixs-modpack-survival-default-kit_001"
