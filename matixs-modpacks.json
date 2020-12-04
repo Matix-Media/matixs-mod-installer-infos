@@ -6,7 +6,7 @@
          "Name":"Survival Default Kit",
          "Creator":"Matix",
          "Version":"1.2.1",
-		 "LastChanged": "2020-12-04T18:14:40.418Z",
+         "LastChanged": "2020-12-04T18:14:40.418Z",
          "McVersion":"1.16.4",
          "ModpackDownload":"https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/modpack-bundles/matixs-modpack-survival-default-kit_001.zip",
          "ModpackSHA256": "f0ee38a12caf58220180890b1ac7e84baaabcb3728958dd04ff8de2c7ce8df01",
@@ -14,7 +14,7 @@
          "Icon":"https://imgur.com/eiuJs3z.png_",
          "Banner": "https://imgur.com/pDvgCCM.png",
          "UID": "matixs-modpack-survival-default-kit_001",
-		 "Mods": [
+	 "Mods": [
 			{
 				"Name": "Inventory Tweaks Renewed",
 				"Website": "https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed",
@@ -61,7 +61,7 @@
          "Name":"OptiFine for Forge 1.16.4",
          "Creator":"Matix",
          "Version":"0.1.2",
-		 "LastChanged": "2020-12-04T18:14:40.418Z",
+         "LastChanged": "2020-12-04T18:14:40.418Z",
          "McVersion":"1.16.4",
          "ModpackDownload":"https://github.com/Matix-Media/matixs-mod-installer-infos/raw/main/modpack-bundles/matixs-modpack-optifine-for-forge-1-16-4_002.zip",
          "ModpackSHA256": "81bbfc1f573bbd5657d93838921e804ef88ed6f3f6597c023850a8ccc04046ff",
@@ -69,7 +69,7 @@
          "Icon":"https://imgur.com/u1B1co3.png",
          "Banner": "https://imgur.com/pDvgCCM",
          "UID": "matixs-modpacks-optifine-for-forge-1-16-4_002",
-		 "Mods": [
+         "Mods": [
 			{
 				"Name": "OptiFine",
 				"Website": "https://optifine.net/home",
